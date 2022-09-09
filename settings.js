@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
-global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
+global.owner = ['94763407452']
+global.premium = ['94763407452']
+global.ownernomer = '94763407452'
+global.ownername = 'VIHAGA THIKSANA '
+global.botname = '☆VT MUSIC BOT☆ v1.0.0'
+global.footer = ' VT MUSIC BOT CREATED BY VIHAGA THIKSANA '
+global.ig = 'https://youtube.com/channel/UCiMmvM-OLyee7JDthwK_E0Q'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.myweb = 'https://www.youtube.com/c/AchiBrolk'
-global.packname = 'ALPHA WA BOT MD'
-global.author = 'D.U.A.N.FERNANDO '
+global.sc = 'https://chat.whatsapp.com/KPK9oTg2PwsJVTdaROjOgp'
+global.myweb = 'https://youtube.com/channel/UCiMmvM-OLyee7JDthwK_E0Q'
+global.packname = '☆VT MUSIC BOT☆'
+global.author = 'H.M.V.PEIRIS '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
